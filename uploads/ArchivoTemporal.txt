@@ -1,0 +1,1 @@
+Archivo para depositarlo en la carpeta uploads y asi facilitar el deployment con esta carpeta. no se sube por estar vacia.
